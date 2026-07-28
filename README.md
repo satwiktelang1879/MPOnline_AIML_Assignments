@@ -103,7 +103,7 @@ AI-ML-Assignments/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/<repository-name>.git
+git clone https://github.com/satwiktelang1879/MPOnline-AIML-Assignments.git
 ```
 
 ### 2. Open any notebook using
