@@ -5,8 +5,11 @@ This repository contains **9 AI & Machine Learning assignments** completed as pa
 ---
 
 Name : SATWIK TELANG
+
 Reg No : 23BAI11046
+
 Application No : IN26011013
+
 Batch : MPOnline AI/ML Internship - Batch 1(A) - Nishant Shrivastava (1:00-3:00pm, Mon-Fri)
 
 ---
