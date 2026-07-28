@@ -14,7 +14,7 @@ Batch : MPOnline AI/ML Internship - Batch 1(A) - Nishant Shrivastava (1:00-3:00p
 
 ---
 
-## 📚 Repository Contents
+## Repository Contents
 
 | Assignment | Topic | Techniques Used |
 |------------|-------|-----------------|
@@ -30,7 +30,7 @@ Batch : MPOnline AI/ML Internship - Batch 1(A) - Nishant Shrivastava (1:00-3:00p
 
 ---
 
-# 🛠️ Technologies Used
+# Technologies Used
 
 ## Programming Language
 
@@ -79,7 +79,7 @@ Batch : MPOnline AI/ML Internship - Batch 1(A) - Nishant Shrivastava (1:00-3:00p
 
 ---
 
-# 📂 Repository Structure
+# Repository Structure
 
 ```text
 AI-ML-Assignments/
@@ -98,7 +98,7 @@ AI-ML-Assignments/
 
 ---
 
-# 🚀 How to Use
+# How to Use
 
 ### 1. Clone the repository
 
@@ -125,7 +125,7 @@ Execute all notebook cells sequentially to reproduce the results.
 
 ---
 
-# 🎯 Learning Outcomes
+# Learning Outcomes
 
 Through these assignments, the following concepts are explored:
 
@@ -141,14 +141,6 @@ Through these assignments, the following concepts are explored:
 
 ---
 
-# 📌 Notes
-
-- All assignments are developed for **academic and learning purposes**.
-- Each notebook contains implementation, experimentation, and outputs.
-- Some projects may require downloading datasets before execution.
-
----
-
-# 📄 License
+# License
 
 This repository is intended for **academic and educational purposes** only.
