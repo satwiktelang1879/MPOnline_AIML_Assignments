@@ -1,4 +1,4 @@
-# MP Online AI & ML Assignments 🤖
+# MP Online AI & ML Assignments 
 
 This repository contains **9 AI & Machine Learning assignments** completed as part of the coursework. Each assignment is implemented using **Google Colab (Jupyter Notebooks)** and demonstrates practical concepts in **Machine Learning, Deep Learning, Computer Vision, Reinforcement Learning, Natural Language Processing, Recommendation Systems, and Model Deployment**.
 
